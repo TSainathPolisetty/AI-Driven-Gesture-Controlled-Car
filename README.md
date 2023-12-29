@@ -11,7 +11,7 @@ This project documents an innovative project that fuses IoT with machine learnin
 ## Applications
 The potential of this technology is vast, with applications ranging from remote operation in hazardous environments to advanced user interfaces in healthcare, space exploration, and automotive industries.
 
-## Demonstration
+## Demonstration - Click on the image to play video
 [![Gesture-Controlled IoT Car Demonstration](https://img.youtube.com/vi/qWeU5hdkxfU/hqdefault.jpg)](https://youtu.be/qWeU5hdkxfU)
 
 ## Future Work
